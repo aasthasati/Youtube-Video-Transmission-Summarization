@@ -1,2 +1,3 @@
 # Youtube-Video-Transmission-Summarization
-Using NLP
+Natural Language Processing  Project 
+using Abstractive Summarization & Extractive Summarization
